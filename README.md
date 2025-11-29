@@ -1,1 +1,1 @@
-# smart-ai-assistant
+# Smart AI Assistant
